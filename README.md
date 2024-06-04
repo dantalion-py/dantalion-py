@@ -29,7 +29,7 @@ A developer focused on technology and programming. Currently specializing in web
 
 - **Email**: [johanenvdev@gmail.com](mailto:johanenvdev@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/johan-beltran-backend-dev/](https://www.linkedin.com/in/johan-beltran-backend-dev/)
-- **Twitter**: [https://x.com/belotran](https://x.com/belotran)
+- **X**: [https://x.com/belotran](https://x.com/belotran)
 
 ## 🌱 Currently Learning
 
